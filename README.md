@@ -48,6 +48,15 @@ For development:
 npm run dev
 ```
 
+## 📸 Screenshots
+
+<img width="1470" height="956" alt="Screenshot 2026-09-10 at 9 20 17 PM" src="https://github.com/user-attachments/assets/2632e90f-618d-49bd-9ce3-20893c199fd3" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-10 at 9 21 43 PM" src="https://github.com/user-attachments/assets/c245ca0c-6002-4be8-b179-e81b14ff0859" />
+
+<img width="1470" height="956" alt="Screenshot 2026-09-10 at 9 21 50 PM" src="https://github.com/user-attachments/assets/2f672f37-5bca-4a45-b2b6-80372a8dce74" />
+
+
 ## 🧪 Test collaboration
 1. Open `http://localhost:5000?board=demo` in two browser windows.
 2. Draw in the first window.
