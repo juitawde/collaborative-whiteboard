@@ -2,6 +2,8 @@
 
 A real-time multi-user whiteboard built with **Node.js, Express.js, Socket.io and HTML5 Canvas**. Multiple users can join the same board room, draw together, see collaborator cursors, undo the latest drawing action, and clear the shared canvas.
 
+Live Demo: https://collaborative-whiteboard-n436.onrender.com/
+
 ## ✨ Features
 - Real-time collaborative drawing with Socket.io
 - Multi-room support using `boardId`
